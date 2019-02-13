@@ -1,4 +1,4 @@
-# arch_examples
+# Diferencias entre Vanilla, Scope Model y Bloc
 
 Flutter architecture examples.
 
